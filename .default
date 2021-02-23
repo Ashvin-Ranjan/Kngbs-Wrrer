@@ -7,5 +7,6 @@
 	"chain_length": 15,
 	"owner": 384499090865782785,
 	"permissions": {},
-	"send_messages": true
+	"send_messages": true,
+	"learning_mode": false
 }
