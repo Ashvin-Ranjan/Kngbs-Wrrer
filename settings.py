@@ -4,11 +4,11 @@ _raw = {}
 _default = {}
 
 # Set settings
-with open(".settings", "r+") as f:
+with open(".settings", "r") as f:
 	_raw = json.load(f)
 
 # Load defaults
-with open(".defult", "r+") as f:
+with open(".default", "r") as f:
 	_default = json.load(f)
 
 settings = {}
