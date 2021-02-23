@@ -1,0 +1,11 @@
+{
+	"normal_rate": 0.01,
+	"channel_rates": {},
+	"percent_match": 0.90,
+	"num_matches": 2,
+	"match_range": 0.10,
+	"chain_length": 15,
+	"owner": 384499090865782785,
+	"permissions": {},
+	"send_messages": true
+}
